@@ -1,7 +1,6 @@
 | [home page](https://hjayanne.github.io/Portfolio_hjayanne/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Portfolio_hjayanne ![WhatsApp Image 2024-10-26 at 17 13 14](https://github.com/user-attachments/assets/e37cbba3-0cd8-48ae-929c-3ae1ef5f392d)
-
+# Portfolio_hjayanne 
 
 This is my public portfolio for 'Telling stories with Data' at CMU!
 
