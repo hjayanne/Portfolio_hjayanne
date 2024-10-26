@@ -17,7 +17,18 @@ Interested in: Business Analytics, Data Analysis with Tableau, Product/Program/P
 We deal with a lot of data in our everyday life, but see very few visualizations that convey the point easily. I hope to master the skill of effectively visualizing data tailored to different stakeholders to convey an idea/insight. I hope to utilise it in delivering better presentations to executive stakeholers and senior management after graduation to help them in decision-making by gathering impactful insights from the data.  
 
 # Portfolio
-### Assignment 1: Coming soon...
-### Assignment 2: Coming soon...
-### Assignment 3: Coming soon...
-### Final Project: Coming soon...
+
+## Placeholders
+For in-class demos or assignments:
+
+### Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+Will be added soon...
+
+### Assignment 3&4: [Critique by Design](critique-by-design)
+Will be added soon...
+
+### Final project
+Will be updated soon: 
+[Part I](final-project-part-one)
+[Part II](final-project-part-two)
+[Part III](final-project-part-three)
