@@ -1,6 +1,7 @@
 # Portfolio_hjayanne
 
 This is my public portfolio for 'Telling stories with Data' at CMU!
+
 Access to the live site: https://hjayanne.github.io/Portfolio_hjayanne/ 
 
 # About me
