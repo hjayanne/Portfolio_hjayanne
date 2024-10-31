@@ -1,3 +1,5 @@
+| [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Here's my cool visualization on the News Media Dataset!
 
 Bar Plot Visualization
