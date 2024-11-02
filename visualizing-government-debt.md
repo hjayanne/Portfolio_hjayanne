@@ -7,7 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 This is a bar graph of all countries that reported _General government debt_ in 2023, an our focus is drawn to the North American countries: _US_ and _Canada_ here.
-<img src="images/North_America.png" width="600"/> 
+<img src="images/North_America.png" align="left" width="600"/> 
 
 ## Working with Tableau
 
