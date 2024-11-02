@@ -6,8 +6,8 @@ Text here!
 _As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
-
-_Include your visualization, and introduce us to what you did._
+This is a bar graph of all countries that reported _General government debt_ in 2023, an our focus is drawn to the North American countries: _US_ and _Canada_ here.
+<img src="images/North_America.png" width="140"/> 
 
 ## Working with Tableau
 
