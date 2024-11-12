@@ -1,4 +1,4 @@
-| [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3&4: Critique by design
 We will critique the "Meat production down 8.1% in 2022" data viz for this analysis.
