@@ -22,7 +22,7 @@ We deal with a lot of data in our everyday life, but see very few visualizations
 Check out my different visualizations for the Govt Debt-to-GDP ratios - bar chart, heatmap, line plot, and a map!
 
 ### Assignment 3&4: [Critique by Design](critique-by-design)
-Will be added soon...
+Check out my critique of the Meat Production in Germany data viz from MakeoverMondayUK!
 
 ### Final project
 Will be updated soon: 
