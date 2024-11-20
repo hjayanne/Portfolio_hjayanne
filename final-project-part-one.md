@@ -1,36 +1,45 @@
 | [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Final Project(Part 1) - AI in the Job Market (Opportunities, Risks, and Strategies for Students)
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## High-level summary
+Artificial intelligence (AI) is everywhere these days; it has become a defining force across industries to optimize their efficiencies and also impact the global job market. Everyone is scared that AI will take our jobs, in this project, we will understand which specific roles are at high risk of getting automated by AI and also identify which job roles are created because of AI. This way, we can get a holistic view of how AI creates and replaces jobs. This could help students or professionals develop specific skills to stay employable in today’s market.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+The project focuses on three key questions:
+1.	How is AI being adopted across different industries, and how is the user growth?
+2.	What is the balance between jobs created by AI and jobs at the risk of being replaced by AI?
+3.	 What strategies can be recommended to the students to stay employable?
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The objective is to educate stakeholders, like students and early career professionals for whom the knowledge of AI will be crucial in today’s job market.
 
-Text here...
+## Project Structure
+### 1. Setup: 
+I want to begin with data visualization of how the usage of AI is increasing rapidly and then showcase how different industries are adopting AI at an incredible pace.  We will be able to draw insights about, let’s say, finance or healthcare and the adoption rates of AI in these industries.
+
+### 2. Conflict/Problem: 
+Here, I will tackle the question of whether AI is really taking away jobs or offering new ones. I will show a visualization of which job roles are threatened to be replaced by AI and which new roles are opening up or which job roles are continuing to grow with AI to support the above question. 
+
+### 3. Resolution: 
+In the resolution, I will provide actionable strategies to students and early career professionals with a list of skill sets to build to remain employable in today’s market. I will showcase visualizations of the skills highly needed for the roles created by AI and roles that are growing. This way, our stakeholders will be able to navigate the AI-driven job market by aligning their skills with the market demands. 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+## The Data
+I have detailed all the information about the datasets I have currently explored with proper citations, accesible links, and some paragraphs about how I will be utilizing these two datasets.
+| Info | Dataset 1 | Dataset 2 |
+|----------------------|---------------------------------|-------------------------------------|
+| Name|Expected number of artificial intelligence (AI) powered tools users in the United States from 2020 to 2030 (Statista, 2024)|AI-Powered Job Market Insights (Tharmalingam, 2024)|
+|Public Link|https://www.statista.com/forecasts/1451316/us-ai-tool-user-number|https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights|
+|Github File|[AI Users Over Time](AI_users_over_time) | [AI Job Market Insights](ai_job_market_insights) |
+|Sourced From| Statista. (February 14, 2024). Expected number of artificial intelligence (AI) powered tools users in the United States from 2020 to 2030 (in millions) [Graph]. In Statista. Retrieved November 19, 2024, from https://www.statista.com/forecasts/1451316/us-ai-tool-user-number| Tharmalingam, L. (August 25, 2024). AI-Powered Job Market Insights. Kaggle. Retrieved on November 17, 2024, from https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights|
+|How I plan to utilize it| I plan to show how the usage of any AI-related tools has increased rapidly over the years and the projection for the future years, highlighting the importance of AI in our world, especially for students for whom AI will be omnipresent in their work lives.|I plan to use this dataset to analyze the modern job market, focusing on the role of artificial intelligence to view the adoption of AI across various industries, identify job roles at a high risk of automation, provide potential areas of growing opportunities due to AI, and finally analyze the skills needed to succeed in these growing roles and recommend them to students.|
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+To bring my project to life and effectively communicate insights and data-driven recommendations, I will be using **Tableau** for interactive data visualizations with either *worksheets or dashboards* and **Shorthand** to present the narrative in a dynamic, visually appealing, and user-friendly format.
 
-Text here...
+Using **Tableau**, I will create Interactive line/area/bar charts to show AI adoption across industries and usage trends over time and its projection. I will also create a bubble chart of scatter plots to showcase job roles at high versus low risk of being replaced by AI. Lastly, to recommend skills, I plan to use bar charts for each role, sorted by the highest in-demand skill for that role. 
+
+This final project will be hosted on **Shorthand**, which will enable me to create an engaging story and provide the audience with a smooth and dynamic story-reading experience. I will also be integrating Tableau worksheets/dashboards within Shorthand to present a visually appealing narrative and a balanced mix of Tableau vizzes, along with textual explanations for our stakeholders navigating today’s AI-driven job market. 
