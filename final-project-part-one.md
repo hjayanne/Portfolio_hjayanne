@@ -1,4 +1,4 @@
-| [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [Visualizing Debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Final Project(Part 1) - AI in the Job Market (Opportunities, Risks, and Strategies for Students)
 
@@ -33,7 +33,7 @@ I have detailed all the information about the datasets I have currently explored
 | Info | Dataset 1 | Dataset 2 |
 |-----|----------------|---------------|
 | Name|Expected number of artificial intelligence (AI) powered tools users in the United States from 2020 to 2030 (Statista, 2024)|AI-Powered Job Market Insights (Tharmalingam, 2024)|
-| Public Link |https://www.statista.com/forecasts/1451316/us-ai-tool-user-number | https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights|
+| Public Link |[Statista](https://www.statista.com/forecasts/1451316/us-ai-tool-user-number) | [Kaggle](https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)|
 | Github File | [AI Users Over Time](AI_users_over_time) | [AI Job Market Insights](ai_job_market_insights) |
 | Sourced From | Statista. (February 14, 2024). Expected number of artificial intelligence (AI) powered tools users in the United States from 2020 to 2030 (in millions) [Graph]. In Statista. Retrieved November 19, 2024, from https://www.statista.com/forecasts/1451316/us-ai-tool-user-number| Tharmalingam, L. (August 25, 2024). AI-Powered Job Market Insights. Kaggle. Retrieved on November 17, 2024, from https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights|
 | How I plan to utilize it | I plan to show how the usage of any AI-related tools has increased rapidly over the years and the projection for the future years, highlighting the importance of AI in our world, especially for students for whom AI will be omnipresent in their work lives. | I plan to use this dataset to analyze the modern job market, focusing on the role of artificial intelligence to view the adoption of AI across various industries, identify job roles at a high risk of automation, provide potential areas of growing opportunities due to AI, and finally analyze the skills needed to succeed in these growing roles and recommend them to students.|
