@@ -23,9 +23,10 @@ Here, I will tackle the question of whether AI is really taking away jobs or off
 In the resolution, I will provide actionable strategies to students and early career professionals with a list of skill sets to build to remain employable in today’s market. I will showcase visualizations of the skills highly needed for the roles created by AI and roles that are growing. This way, our stakeholders will be able to navigate the AI-driven job market by aligning their skills with the market demands. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="1018" alt="Screenshot 2024-11-20 at 5 23 37 PM" src="https://github.com/user-attachments/assets/92494196-e14b-49b7-8e82-37361c42cb4a">
+
+<img width="1018" alt="Screenshot 2024-11-20 at 5 23 56 PM" src="https://github.com/user-attachments/assets/99a70b37-ca65-4b92-87e9-3dadb0e7b8e4">
 
 ## The Data
 I have detailed all the information about the datasets I have currently explored with proper citations, accesible links, and some paragraphs about how I will be utilizing these two datasets.
