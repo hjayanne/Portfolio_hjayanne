@@ -1,4 +1,4 @@
-| [home page](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [visualizing debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [Visualizing Debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
