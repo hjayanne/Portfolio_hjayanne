@@ -30,40 +30,26 @@ I identified three people with different backgrounds to help with the interviews
 | Additional feedback/suggestions to improve the story | Is there anything else I can add to make my story more impactful? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you think of the website? Any suggestions on how the site is built? | | | |
-| Can you tell me what you think this website is telling? | | | |
-| Were the insights that AI is replacing jobs clear? | | | |
-| Were the insights about AI creating jobs clear? | | | |
-| What would you change in the data visualizations, if any? | | | |
-| Is there anything else I can add to make my story more impactful? | | | |
+| What do you think of the website? Any suggestions on how the site is built? | The site is easy to navigate, but some pages are dynamic in the sense it has a nice flow but then the flow stops with some text and data viz. | Change the first background image to make the text look more clear and easy to read. As I was scrolling, I liked that the visualizations were interactive. | Cool website, but it didn't seem choerent like a brand presentation or blog with similar colour or patterns. |
+| Can you tell me what you think this website is telling? | It is basically using data to show how AI is replacing certain jobs and also creating new ones.| People think AI is taking away jobs, but in reality, it’s creating more jobs also. | So, you are showing how AI adoption has increased and how people think its taking away jobs, but you also show the positive side of it, like it creates jobs too. |
+| Were the insights that AI is replacing jobs clear? | Yes | Yes | Yes |
+| Were the insights about AI creating jobs clear? | Kind of, the data viz what you showed about jobs at high risk didn't make sense.| Yes, but maybe use more data to support your story. | Yeah, its clear. |
+| What would you change in the data visualizations, if any? | Change the sizing of the visuals like pie chart, person chart, etc| One viz was hard to interpret, it said three count of AI researchers’ jobs are at high risk. Only 3? Try to find more data. | Make all the colours a bit similar like a brand template, there should a clear theme like maybe use blue graphics and background images to relate to AI. |
+| Is there anything else I can add to make my story more impactful? | Make some text based numbers bigger and add colour.| Put actual stories of people who lost their jobs to AI. | Can you add facts like xyz people lost jobs to AI according to abc research/company in the current flow? |
 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
+Below are the changes that came out of the user interviews that I plan to implement for my final project part 3.
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Data Collection | I will find more data for jobs at risk due to AI in the tech industry & skills required |
+| Textual Changes | Make text bigger, highlight numbers with bigger fonts and colours |
+| Website Flow | Make it more coherent with smooth dynamic transitions and colour theme, update background images |
+| Tableau Changes | Making the size of data vizzes better so that it fits well and is readable |
+| Impactfulness | Add testimonials of people who lost their jobs to AI and facts about AI's effect on the job market |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
+Thank you!
