@@ -43,7 +43,9 @@ I identified three people with different backgrounds to help with the interviews
 
 
 # Identified changes for Part III
+
 Below are the changes that came out of the user interviews that I plan to implement for my final project part 3.
+
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Data Collection | I will find more data for jobs at risk due to AI in the tech industry & skills required |
