@@ -25,7 +25,7 @@ Check out my different visualizations for the Govt Debt-to-GDP ratios - bar char
 Check out my critique of the Meat Production in Germany data viz from MakeoverMondayUK!
 
 ### Final project
-Will be updated soon: 
+All updated: 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
