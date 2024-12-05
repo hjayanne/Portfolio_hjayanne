@@ -10,7 +10,7 @@ With the feedback I received from the three interviews I conducted for Part 2 of
 
 I have added references to all the sources I used as links wherever I have mentioned them. I realized that if the data you want is not available, you can try to put your point across with whatever data you have right now instead of waiting for the perfect dataset. I still don’t have data on what tech jobs are at risk because of AI, but this search did help me target a different audience. I really think the Setup, Conflict, and Resolution method works really well, I start with a topic that most students agree upon like AI takes jobs, but then break that with a reality of how AI is also providing jobs with data to support it. Finally, I am able to recommend which skills are important and how to learn those skills and get started. 
 
-## The audience
+# The audience
 
 I felt that most tech students would know how to navigate AI, but so many other students don’t. However, people who are from non-CS backgrounds still end up in the tech industry. I have personally seen a few seniors at my ex-company who have sales, customer service, and finance backgrounds and are now leading software product solutions for many countries at big tech companies. This has made me think more about which audience can benefit most from my analysis. 
 
