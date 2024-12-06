@@ -25,7 +25,7 @@ Check out my different visualizations for the Govt Debt-to-GDP ratios - bar char
 Check out my critique of the Meat Production in Germany data viz from MakeoverMondayUK!
 
 ### Final project
-All updated: 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+My topic for the final was to inform college students from non-tech backgrounds(with less insights into the tech world) about the positives and negatives of AI in their job hunt journey. 
+Learn more about my initial story design process and thinking: [Part I](final-project-part-one)
+Know more about how I planned on designing the visualizations and conveying the story: [Part II](final-project-part-two)
+See my final shorthand story with interactive vizzes, facts about AI taking jobs and also creating them, skills in demand, and how to build those skills: [Part III](final-project-part-three)
