@@ -1,5 +1,7 @@
 | [Home](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [Visualizing Debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
+# Final Project(Part 2) - Adapting to the AI-Job Market (For students from non-tech backgrounds)
+
 # Wireframes / storyboards
 Shorthand Draft Link: [https://preview.shorthand.com/i0x8MxTjGs7y9zyW](https://preview.shorthand.com/i0x8MxTjGs7y9zyW)
 
