@@ -1,6 +1,6 @@
 | [Home](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [Visualizing Debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Final Project(Part 1) - AI in the Job Market (Opportunities, Risks, and Strategies for Students)
+# Final Project(Part 1) - Adapting to the AI-Job Market (For students from non-tech backgrounds)
 
 ## High-level summary
 Artificial intelligence (AI) is everywhere these days; it has become a defining force across industries to optimize their efficiencies and also impact the global job market. Everyone is scared that AI will take our jobs, in this project, we will understand which specific roles are at high risk of getting automated by AI and also identify which job roles are created because of AI. This way, we can get a holistic view of how AI creates and replaces jobs. This could help students or professionals develop specific skills to stay employable in today’s market.
