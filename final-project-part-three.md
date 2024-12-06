@@ -1,5 +1,7 @@
 | [Home](https://hjayanne.github.io/Portfolio_hjayanne/) |[News_Media](newsdemo)| [Visualizing Debt](visualizing-government-debt) | [Assignment 3&4](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
+# Final Project(Part 3) - Adapting to the AI-Job Market (For students from non-tech backgrounds)
+
 # The final data story
 
 Link to the final shorthand data story: [here](https://carnegiemellon.shorthandstories.com/adapting-to-the-ai-job-market/index.html).
